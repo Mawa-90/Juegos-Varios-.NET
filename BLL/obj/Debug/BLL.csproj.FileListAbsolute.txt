@@ -1,0 +1,13 @@
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\BLL.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\BLL.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\BE.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\MPP.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\BE.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\MPP.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\obj\Debug\BLL.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\obj\Debug\BLL.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\ABSTRAC.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BLL\bin\Debug\ABSTRAC.pdb

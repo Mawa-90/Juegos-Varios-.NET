@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<historial>
+  <resumen numero="1">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>01</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="2">
+    <juegoCodigo>01</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="3">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="4">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="5">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="6">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="7">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="8">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="9">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="10">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="11">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="12">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="13">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="14">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="15">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="16">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="17">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="18">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="19">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="20">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="21">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="22">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="23">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="24">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="25">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="26">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="27">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="28">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="29">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="30">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="31">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="32">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="33">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="34">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="35">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="36">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="37">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="38">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="39">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="40">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="41">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="42">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="43">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="44">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="45">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="46">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="47">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="48">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="49">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="50">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="51">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="52">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="53">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="54">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="55">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="56">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="57">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="58">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="59">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="60">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="61">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="62">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="63">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>6</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="64">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="65">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>7</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="66">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="67">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>7</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="68">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="69">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="70">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="71">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="72">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>3</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="73">
+    <juegoCodigo>2</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="74">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="75">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="76">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+  <resumen numero="77">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="78">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="79">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>empatado</resultado>
+  </resumen>
+  <resumen numero="80">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>perdido</resultado>
+  </resumen>
+  <resumen numero="81">
+    <juegoCodigo>1</juegoCodigo>
+    <jugadorCodigo>1</jugadorCodigo>
+    <resultado>ganado</resultado>
+  </resumen>
+</historial>

@@ -1,0 +1,9 @@
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\bin\Debug\BE.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\bin\Debug\BE.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\obj\Debug\BE.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\obj\Debug\BE.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\bin\Debug\ABSTRAC.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\bin\Debug\ABSTRAC.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\BE\obj\Debug\BE.csproj.CopyComplete

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<juegos>
+  <juego nombre="piedrapapeltijera">
+    <codigo>1</codigo>
+    <cantidadPartidas>24</cantidadPartidas>
+  </juego>
+  <juego nombre="tateti">
+    <codigo>2</codigo>
+    <cantidadPartidas>30</cantidadPartidas>
+  </juego>
+</juegos>

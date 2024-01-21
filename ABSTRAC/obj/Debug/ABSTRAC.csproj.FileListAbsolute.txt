@@ -1,0 +1,6 @@
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\bin\Debug\ABSTRAC.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\bin\Debug\ABSTRAC.pdb
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\obj\Debug\ABSTRAC.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\obj\Debug\ABSTRAC.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\obj\Debug\ABSTRAC.dll
+C:\Users\AGUS\Desktop\UAI\Materias Vigentes\LUG\Parcial2LUG\Parcial2LUG\ABSTRAC\obj\Debug\ABSTRAC.pdb

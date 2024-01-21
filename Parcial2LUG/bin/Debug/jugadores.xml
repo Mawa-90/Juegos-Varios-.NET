@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jugadores>
+  <jugador codigo="1">
+    <nombre>raul</nombre>
+    <apellido>perez</apellido>
+    <dni>12654887</dni>
+    <mail>raul@gmail.com</mail>
+    <fechaNacimiento>01/01/1958</fechaNacimiento>
+    <localidad>bernal</localidad>
+    <puntaje>128</puntaje>
+  </jugador>
+  <jugador codigo="3">
+    <nombre>sarita</nombre>
+    <apellido>martine</apellido>
+    <fechaNacimiento>10/06/1950</fechaNacimiento>
+    <dni>9555874</dni>
+    <localidad>berazategui</localidad>
+    <mail>sarita@gmail.com</mail>
+    <puntaje>38</puntaje>
+  </jugador>
+  <jugador codigo="5">
+    <nombre>rosita</nombre>
+    <apellido>pere</apellido>
+    <fechaNacimiento>15/07/1955</fechaNacimiento>
+    <dni>11555875</dni>
+    <localidad>bernal</localidad>
+    <mail>larosi@yahoo.com.ar</mail>
+    <puntaje>0</puntaje>
+  </jugador>
+  <jugador codigo="6">
+    <nombre>pocho</nombre>
+    <apellido>rodriguez</apellido>
+    <fechaNacimiento>30/12/1955</fechaNacimiento>
+    <dni>11548777</dni>
+    <localidad>avellaneda</localidad>
+    <mail>elpochi@hotmail.com</mail>
+    <puntaje>16</puntaje>
+  </jugador>
+  <jugador codigo="7">
+    <nombre>jorge</nombre>
+    <apellido>chichilo</apellido>
+    <fechaNacimiento>13/08/1966</fechaNacimiento>
+    <dni>15448777</dni>
+    <localidad>bernal</localidad>
+    <mail>chichile@speedy.com</mail>
+    <puntaje>0</puntaje>
+  </jugador>
+  <jugador codigo="8">
+    <nombre>marie</nombre>
+    <apellido>salamanca</apellido>
+    <fechaNacimiento>04/02/1970</fechaNacimiento>
+    <dni>20447879</dni>
+    <localidad>chascomus</localidad>
+    <mail>lasala@yahoo.com</mail>
+    <puntaje>0</puntaje>
+  </jugador>
+</jugadores>

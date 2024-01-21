@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<localidades>
+	<localidad codigo="1">
+		<nombre>berazategui</nombre>
+	</localidad>
+	<localidad codigo="2">
+		<nombre>bernal</nombre>
+	</localidad>
+	<localidad codigo="3">
+		<nombre>quilmes</nombre>
+	</localidad>
+	<localidad codigo="4">
+		<nombre>avellaneda</nombre>
+	</localidad>
+	<localidad codigo="5">
+		<nombre>caba</nombre>
+	</localidad>
+	<localidad codigo="6">
+		<nombre>moron</nombre>
+	</localidad>
+	<localidad codigo="7">
+		<nombre>gonet</nombre>
+	</localidad>
+	<localidad codigo="8">
+		<nombre>hudson</nombre>
+	</localidad>
+	<localidad codigo="9">
+		<nombre>sarandi</nombre>
+	</localidad>
+	<localidad codigo="10">
+		<nombre>chascomus</nombre>
+	</localidad>
+	
+</localidades>
